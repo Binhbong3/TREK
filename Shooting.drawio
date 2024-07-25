@@ -190,7 +190,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2b9hVAnZYSUjPu87Jhxw-40" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Servo 1 có&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;xoay không?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2b9hVAnZYSUjPu87Jhxw-40" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Servo 3 có&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;xoay không?&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="357" y="640" width="112.5" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2b9hVAnZYSUjPu87Jhxw-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2b9hVAnZYSUjPu87Jhxw-43" target="2b9hVAnZYSUjPu87Jhxw-47">
